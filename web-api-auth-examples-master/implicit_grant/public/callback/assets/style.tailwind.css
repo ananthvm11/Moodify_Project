@@ -1,0 +1,15 @@
+@import "./fonts.css";
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+/* custom css */
+body{
+  border: 10px solid white;
+}
+::selection {
+  background: rgb(170, 170, 148);
+}
+
+
+
