@@ -17279,6 +17279,8 @@ html {
 body{
   border: 0px solid rgb(255, 255, 255);
   background-image: url("./website_assets/jpeg/background_main.jpg");
+  background-size:cover;
+  /* background-repeat: no-repeat; */
 }
 
 ::-moz-selection {
